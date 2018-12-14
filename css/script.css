@@ -1,1 +1,12 @@
+body{
+  background-color: black;
+  backface-visibility: visible;
+  background-image: linear-gradient();
+}
+.jumbotron{
+  float: right;
+  position: sticky;
+  margin-left: auto;
+  color: grey;
+}
 
