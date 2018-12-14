@@ -7,7 +7,6 @@
 ### Description
 This is a two player based web application that allows players to play a simple game of Pig Dice.
 
-
 ### Setup/Installation Requirements
 You can clone this repository
 Open a HTML file
