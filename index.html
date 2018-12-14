@@ -4,12 +4,13 @@
 <head>
   <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
   <link href="css/script.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Bangers|Gochi+Hand|Shadows+Into+Light|Unlock|ZCOOL+KuaiLe|ZCOOL+XiaoWei" rel="stylesheet">
   <script src="js/jquery-3.3.1.js"></script>
   <script src="js/source.js"></script>
   <title>Pig Dice Game</title>
 </head>
-
-<body>
+<img src="take.jpeg" alt="pig">
+<body background = "dice.gif">
 
   <div class="start-menu container">
     <div class="jumbotron">
@@ -29,26 +30,28 @@
       <button id="start" class="btn-info btn">Start</button>
     </div>
   </div>
-
-  <div id="ep" class="player-console container">
+<div class="art">
+  <div id="ep" class="game">
     <button id="new game" class="btn-success btn">START AGAIN</button>
+  </div>
+</div>
     <div class="row">
       <div class="col-md-6">
-        <h2>Player 1: <span id="firstplayer"><span></h2>
+        <h2>Player 1: <span id="firstplayer"><span>0</h2>
         <button id="firstplayer-roll" class="btn-success btn">Roll</button>
         <button id="firstplayer-hold" class="btn-success btn">Hold</button>
         <h2>Roll dice: <span id="Roll"></span></h2>
-        <p>Round Total: <span id="round-total-1"></span></p>
-        <p>Total Score: <span id="total-score-1"></span></p>
+        <p>Round Total: <span id="round-total-1">0</span></p>
+        <p>Total Score: <span id="total-score-1">0</span></p>
       </div>
 
       <div class="col-md-6">
-        <h2>Player 2: <span id="secondplayer"><span></h2>
+        <h2>Player 2: <span id="secondplayer">0<span></h2>
         <button id="secondplayer-roll" class="btn-success btn">Roll</button>
         <button id="secondplayer-hold" class="btn-success btn">Hold</button>
         <h2>Dice Roll: <span id="die-roll-2"></span></h2>
-        <p>Round Total: <span id="round-total-2"></span></p>
-        <p>Total Score: <span id="total-score-2"></span></p>
+        <p>Round Total: <span id="round-total-2"></span>0</p>
+        <p>Total Score: <span id="total-score-2"></span>0</p>
       </div>
     </div>
   </div>
