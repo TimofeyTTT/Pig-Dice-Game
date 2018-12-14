@@ -19,6 +19,10 @@ Bootstrap
 JQuery
 Javascript
 
+### Link to live website
+ https://timofeyttt.github.io/Pig-Dice-Game/
+ 
+ 
 ### Notes
 
 ### License
