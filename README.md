@@ -13,9 +13,13 @@ Open a HTML file
 
 ### Technologies Used
 CSS
+
 HTML
+
 Bootstrap
+
 JQuery
+
 Javascript
 
 ### Link to live website
