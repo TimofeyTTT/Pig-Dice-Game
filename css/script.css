@@ -1,12 +1,19 @@
 body{
-  background-color: black;
-  backface-visibility: visible;
-  background-image: linear-gradient();
+  font-family: 'ZCOOL KuaiLe', cursive;
+  background-size: cover;
 }
 .jumbotron{
-  float: right;
-  position: sticky;
-  margin-left: auto;
-  color: grey;
+  float : right;
+  background-color: black;
+  font-family: 'Amatic SC', cursive;
 }
-
+img{
+  float: left;
+  resize: both;
+}
+#ep{
+font-size: 40px;
+}
+#art{
+  background-color: inherit;
+}
