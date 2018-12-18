@@ -1,5 +1,5 @@
 # Pig-Dice-Game
-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -56,9 +56,12 @@ Javascript
 ### User Requirements.
 
 to answer the questions:
-vist the following page (https://timofeyttt.github.io/Quizboard/).
-Answer the questions buy selecting an answer for each question using the radio buttons.
-And wait for a message to be displayed(score).
+
+1.vist the following page (https://timofeyttt.github.io/Quizboard/).
+
+2.Answer the questions buy selecting an answer for each question using the radio buttons.
+
+3.And wait for a message to be displayed(score).
 
 
 
